@@ -1,0 +1,31 @@
+{
+  "name": "firebase-admin-serverside-rendering",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Adambear1/firebase-admin-serverside-rendering.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Adambear1/firebase-admin-serverside-rendering/issues"
+  },
+  "homepage": "https://github.com/Adambear1/firebase-admin-serverside-rendering#readme",
+  "dependencies": {
+    "body-parser": "^1.19.0",
+    "cookie-parser": "^1.4.5",
+    "cors": "^2.8.5",
+    "csurf": "^1.11.0",
+    "ejs": "^3.1.5",
+    "express": "^4.17.1",
+    "firebase-admin": "^9.3.0",
+    "helmet": "^4.1.1",
+    "nodemon": "^2.0.6"
+  }
+}
